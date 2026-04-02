@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(export PATH=\"/usr/local/bin:/opt/homebrew/bin:$HOME/.nvm/versions/node/*/bin:$HOME/.volta/bin:$HOME/.bun/bin:$PATH\")",
+      "Bash(npm --version)"
+    ]
+  }
+}
